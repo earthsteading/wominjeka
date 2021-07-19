@@ -24,10 +24,16 @@ The aim of our services is to expediate the time it takes to comply with buildin
  - [x] essential safety measures reports and advice
  - [x] after hours and weekend inspections and meetings by appointment
 
-## Other places on the Web
+## Other places you can inspect Earthsteading builds on the Web
    * LinkedIn = https://www.linkedin.com/in/earthsteading/
      * TikTok = https://www.tiktok.com/@earthsteading
      * Instagram = https://twitter.com/earthsteading
      * Twitter = https://mobile.twitter.com/earthsteading
+
+## Obligatory policies and complaints procedures:
+As per state legislation the following policies and procedures are avaialble to all Earthsteading clients throughout our mutually signed contract:
+  - [x] [https://github.com/earthsteading/complaints-procedure](Code of conduct policy and complaints policy including public resolution register).
+  - [x] Contract and payment policy and procedure.  Please note, payment in full, prior to issuing a build permit is required.
+  - [x] Indemnity insurance coverage and records keeping policy for all building documentation for 10 years.
 
 
