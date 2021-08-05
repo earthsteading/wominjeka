@@ -30,9 +30,9 @@ The aim of our services is to expediate the time it takes to comply with buildin
      * Instagram = https://twitter.com/earthsteading
      * Twitter = https://mobile.twitter.com/earthsteading
 
-## Obligatory policies and complaints procedures:
+## Code of conduct policies and complaints procedures:
 As per state legislation the following policies and procedures are avaialble to all Earthsteading clients throughout our mutually signed contract:
-  - [x] [https://github.com/earthsteading/complaints-procedure](Code of conduct policy and complaints policy including public resolution register).
+  - [x] [Code of conduct policy and complaints policy including public resolution register](https://github.com/earthsteading/complaints-procedure]).
   - [x] Contract and payment policy and procedure.  Please note, payment in full, prior to issuing a build permit is required.
   - [x] Indemnity insurance coverage and records keeping policy for all building documentation for 10 years.
 
