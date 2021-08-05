@@ -24,7 +24,7 @@ The aim of our services is to expediate the time it takes to comply with buildin
  - [x] essential safety measures reports and advice
  - [x] after hours and weekend inspections and meetings by appointment
 
-## Other places you can inspect Earthsteading builds on the Web
+## Other #Earthsteading places on the Web
    * LinkedIn = https://www.linkedin.com/in/earthsteading/
      * TikTok = https://www.tiktok.com/@earthsteading
      * Instagram = https://twitter.com/earthsteading
