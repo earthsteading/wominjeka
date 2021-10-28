@@ -3,9 +3,11 @@ Wominjeka (welcome) to Earthsteading building surveying and civil construction i
 
 This page provides professional details of Earthsteading Ltd as a business in Australia:
   * ABN: 575 841 486 40 = https://abr.business.gov.au/ABN/View?id=57584148640#
-  * Owner/operator: David F. Flanders
+  * Owner:: David F. Flanders
   * Email: earthsteading@gmail.com
-  * Locations: Parkville, Ballarat, Mt Buller/Mansfield, Mt. Hotham/Bright, Mount Beauty/Falls Creek and the Great Australian Divide.
+  * Mobile/SMS: 0401 28 3375
+  * Locations: Earthsteading Ltd is approved under Professional Standards Legislation to operate throughout Australia.
+  * Postal Address: 699 Rathdowne Street, North Carlton, 
 
 ## Services 
 
@@ -27,16 +29,16 @@ The aim of our building surveying services is to expediate the time it takes to 
  - [x] after hours and weekend inspections and meetings by appointment
 
 ### Civil infrastructure inspection
-The aim of our civil construction services is to transoform your off-grid land so it is ready for your building permit. Contact us now so we can begin to guide you on what planning permits and inspections are required for:
- - [ ] municipal site inspections including stairways and ramps to roads and bridges.
+The aim of our civil construction services is to transoform your off-grid land so it is ready for your building permit. Contact us now so we can begin to guide you on what planning permits and inspections you require:
+ - [ ] municipal site inspections including roads and bridges to stairways and ramps.
  - [ ] inspection of foundations, e.g. concrete and masonry slabs crack when they begin to deterioriate
  - [ ] pre-purchase inspections of land parcels for site development considerations
  - [ ] civil construction inspections
- - [ ] dilapidation inspections
+ - [ ] dilapidation and structural maitenance inspections
  - [ ] pre-build construction consultation on pool, damn, swale and stormwater run-off utilisation for off-grid structures.
  - [ ] contractor quality control, including test-driven inspections for utilities, water-wastewater, recreational, transportation, environmental and recreational civil works.
 
-## Other #Earthsteading places on the Web
+## Other @Earthsteading places on the Web
    * LinkedIn = https://www.linkedin.com/in/earthsteading/
      * TikTok = https://www.tiktok.com/@earthsteading
      * Instagram = https://twitter.com/earthsteading
