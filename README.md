@@ -1,4 +1,4 @@
-# wominjeka
+# Wominjeka
 Wominjeka (welcome) to Earthsteading building surveying and civil construction inspection.
 
 This page provides professional details of Earthsteading Ltd as a business in Australia:
