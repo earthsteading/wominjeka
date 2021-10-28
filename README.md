@@ -6,8 +6,8 @@ This page provides professional details of Earthsteading Ltd as a business in Au
   * Owner:: David F. Flanders
   * Email: earthsteading@gmail.com
   * Mobile/SMS: 0401 28 3375
-  * Locations: Earthsteading Ltd is approved under Professional Standards Legislation to operate throughout Australia.
-  * Postal Address: 699 Rathdowne Street, North Carlton, 
+  * Work locations: Earthsteading Ltd is approved under Professional Standards Legislation to operate accross Australia.
+  * Postal Address: 699 Rathdowne Street, North Carlton, VIC, 3054.
 
 ## Services 
 
