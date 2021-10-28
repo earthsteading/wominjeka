@@ -2,7 +2,7 @@
 Wominjeka (welcome) to Earthsteading building surveying and civil construction inspection.
 
 This page provides professional details of Earthsteading Ltd as a business in Australia:
-  * ABN: 575 841 486 40 = https://abr.business.gov.au/ABN/View?id=57584148640#
+  * ABN: [575 841 486 40](https://abr.business.gov.au/ABN/View?id=57584148640#)
   * Owner:: David F. Flanders
   * Email: earthsteading@gmail.com
   * Mobile/SMS: 0401 28 3375
