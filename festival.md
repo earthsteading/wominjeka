@@ -1,6 +1,6 @@
 # Off-Grid Living & Building Festival
 
-Thanks for attending the off-grid living festival.  Below are some frequently asked questions, but [please feel free to email with with further enquiries about your off-grid build](mailto:earthsteading@gmail.com?subject=[Off-grid Festival]%20Source%20Han%20Sans).
+Thanks for attending the off-grid living festival.  Below are some frequently asked questions, but [please feel free to email with with further enquiries about your off-grid build](mailto:earthsteading@gmail.com?subject=[Festival]%20Source%20Han%20Sans).
 
 ## FAQ
   - [ ] Q: How can Earthsteading Ltd help me with my off-grid build? --> A: A private building surveyor is focused on finding solutions to achieve your legacy build; as opposed to many council paid surveyors who are merely looking for any detail to delay your build.  A private building surveyor will save you time and money by expediating the council, state and federation legislation required for every structure in Australia. 
