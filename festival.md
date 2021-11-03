@@ -7,4 +7,4 @@ Thanks for attending the off-grid living festival.  Below are some frequently as
   - [ ] Q:  foobar
 
 # References
- - [ ] please cite this page using: 
+ - [ ] please cite this page using: https://earthsteading.limited/festival 
