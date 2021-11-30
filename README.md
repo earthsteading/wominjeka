@@ -3,16 +3,19 @@ Wominjeka (welcome) to Earthsteading building surveying and civil construction i
 
 This page provides professional details of Earthsteading Ltd as a business in Australia:
   * ABN: [575 841 486 40](https://abr.business.gov.au/ABN/View?id=57584148640#)
-  * Owner:: David F. Flanders
+  * Owner: David F. Flanders
   * Email: earthsteading@gmail.com
   * Mobile/SMS: 0401 28 3375
   * Work locations: Earthsteading Ltd is approved under Professional Standards Legislation to operate accross Australia.
   * Postal Address: 699 Rathdowne Street, North Carlton, VIC, 3054.
 
 ## Services 
+ - Owner-builder: see below list for surveyor services, especially providing council approved building permits and occupancy certificates.
+ - Builder-contractor: for engineered approved schematics and performance solutions please see [full list of earthsteading ltd services](https://github.com/earthsteading)
+
 
 ### Building Permits and Surveying
-The aim of our building surveying services is to expediate the time it takes to comply with building and construction code regulations.  Contact us now for our pre-design and pre-application advice service so we can guide you through the complex maze of building legislation that is ever changing. 
+The aim of our building surveying services is to expediate the time it takes to comply with building and construction code regulations (NCC).  Contact us now for our pre-design and pre-application advice service so we can guide you through the complex maze of building legislation that is ever changing. 
 
  - [x] inform you about how best to comply with building regulations, codes and standards
  - [x] provide you with accurate and reliable information regarding any exemptions or concessions available for your project
