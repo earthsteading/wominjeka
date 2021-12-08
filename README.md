@@ -11,10 +11,10 @@ This page provides professional details of Earthsteading Ltd as a business in Au
 
 ## Services 
  - Owner-builder: see below list for surveyor services, especially providing council approved building permits and occupancy certificates.
- - Builder-contractor: for engineered approved schematics and performance solutions please see [full list of earthsteading ltd services](https://github.com/earthsteading)
+ - Builder-contractor: for engineered approved schematics and performance solutions please see [full list of Earthsteading Ltd services](https://github.com/earthsteading)
 
 ### Building Permits and Surveying
-The aim of our building surveying services is to expediate the time it takes to comply with building and construction code regulations (NCC).  Contact us now for our pre-design and pre-application advice service so we can guide you through the complex maze of building legislation that is ever changing. 
+The aim of our building surveying services is to expediate the time it takes to comply with building and construction code regulations (NCC).  Contact us now for our pre-design and pre-application advice service so we can guide you through the complex maze of building legislation which is ever changing. 
 
  - [x] inform you about how best to comply with building regulations, codes and standards
  - [x] provide you with accurate and reliable information regarding any exemptions or concessions available for your project
@@ -31,17 +31,17 @@ The aim of our building surveying services is to expediate the time it takes to 
  - [x] after hours and weekend inspections and meetings by appointment
 
 ### Civil infrastructure inspection
-The aim of our civil construction services is to transoform your land so it is ready for your building permit. Contact us now so we can begin to guide you on what planning permits and inspections you require:
+The aim of our civil construction services is to transoform your land so it is ready for your building permit and service utilities. Contact us now so we can begin to guide you on what planning permits and inspections you require:
  - [ ] municipal site inspections including roads and bridges to stairways and ramps.
  - [ ] inspection of foundations, e.g. concrete and masonry slabs crack when they begin to deterioriate
  - [ ] pre-purchase inspections of land parcels for site development considerations
  - [ ] civil construction inspections
  - [ ] dilapidation and structural maitenance inspections
- - [ ] pre-build construction consultation on pool, damn, swale and stormwater run-off utilisation for off-grid structures.
+ - [ ] pre-build construction consultation on pool, damn, swale and stormwater run-off utilisation for off-grid structures
  - [ ] contractor quality control, including test-driven inspections for utilities, water-wastewater, recreational, transportation, environmental and recreational civil works.
 
-### Civil operations and supervision for commercial buildings
-Earthsteading is licensed to be the project manager for commercial structures up to three storeys, if your require your build project to be managed from start (planning permit) to completion (final occupancy permit) then please schedule a meeting with me to discuss my fees for being your project lead.
+### Civil operations and supervision for commercial building projects
+Earthsteading is licensed to be the operations supervisor for commercial structures up to three storeys, if your require your build project to be managed from start (planning permit) to completion (final occupancy permit) please ask to see our commercial building portfolio under non-disclosure agreement.
 
 ## Code of conduct policies and complaints procedures:
 As per state legislation the following policies and procedures are avaialble to all Earthsteading clients throughout our mutually signed contract:
