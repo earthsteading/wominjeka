@@ -1,5 +1,5 @@
 # Wominjeka
-Wominjeka (welcome) to Earthsteading building surveying and civil construction inspection.
+Wominjeka (welcome) to Earthsteading building surveying and civil infrastructure services.
 
 This page provides professional details of Earthsteading Ltd as a business in Australia:
   * ABN: [575 841 486 40](https://abr.business.gov.au/ABN/View?id=57584148640#)
