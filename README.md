@@ -31,17 +31,18 @@ The aim of our building surveying services is to expediate the time it takes to 
  - [x] after hours and weekend inspections and meetings by appointment
 
 ### Civil infrastructure services
-The aim of our civil construction services is to transoform your land so it is ready for your building permit and service utilities. Contact us now so we can begin to guide you on what planning permits and inspections you require:
+The aim of our civil construction services is to transoform your land so it is ready for your building permit and service utilities. Contact us now so we can begin to guide you on what planning permits and inspections you will legally require:
  - [x] municipal site inspections including roads and bridges to stairways and ramps.
  - [x] inspection of foundations, e.g. concrete and masonry slabs crack when they begin to deterioriate
  - [x] pre-purchase inspections of land parcels for site development considerations
  - [x] civil construction inspections
+ - [x] land surveying
  - [x] dilapidation and structural maitenance inspections
  - [x] pre-build construction consultation on pool, damn, swale and stormwater run-off utilisation for off-grid structures
  - [x] contractor quality control, including test-driven inspections for utilities, water-wastewater, recreational, transportation, environmental and recreational civil works.
 
-### Operations and supervision for commercial building projects
-Earthsteading is licensed to be the operations supervisor for commercial structures up to three storeys, if your require your build project to be managed from start (planning permit) to completion (final occupancy permit) please request to see our commercial building portfolio under non-disclosure agreement.
+### Operational and supervision for commercial building projects
+Earthsteading is licensed and insured to be the operations supervisor for commercial structures (Class 2-9), if your require your build project to be managed from start (planning permit) to completion (final occupancy permit) please request to see our commercial building portfolio under non-disclosure agreement.
 
 ## Code of conduct policies and complaints procedures:
 As per state legislation the following policies and procedures are avaialble to all Earthsteading clients throughout our mutually signed contract:
