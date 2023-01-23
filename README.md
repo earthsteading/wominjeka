@@ -42,7 +42,7 @@ The aim of our civil construction services is to transform your land so it is re
  - [x] contractor quality control, including test-driven inspections for utilities, water-wastewater, recreational, transportation, environmental and recreational civil works.
 
 ### Operational and supervision for commercial building projects
-Earthsteading is licensed and insured to be the operations supervisor for commercial structures (Class 2-9), if your require your build project to be managed from start (planning permit) to completion (final occupancy permit) please request to see our commercial building portfolio under non-disclosure agreement.
+Earthsteading is licensed and insured to be the operations supervisor for commercial structures (Class 2-9). If your require your build project to be managed from start (planning permit) to completion (final occupancy permit) please request to see our commercial building portfolio under non-disclosure agreement.
 
 ## Code of conduct policies and complaints procedures:
 As per state legislation the following policies and procedures are avaialble to all Earthsteading clients throughout our mutually signed contract:
