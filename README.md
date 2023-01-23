@@ -48,7 +48,7 @@ Earthsteading is licensed and insured to be the operations supervisor for commer
 As per state legislation the following policies and procedures are avaialble to all Earthsteading clients throughout our mutually signed contract:
   - [x] [Code of conduct policy and complaints policy including public resolution register](https://github.com/earthsteading/contracting-procedures/blob/main/README.md).
   - [x] Contract and payment policy and procedure.  Please note, payment in full, prior to issuing a build permit is required.
-  - [x] Indemnity insurance coverage and records keeping policy for all building documentation for 10 years.
+  - [x] Indemnity insurance coverage and records keeping policy for all building documentation is a minimum of 10 years.
 
 ## Other @Earthsteading places on the Web
    * Google = earthsteading@gmail.com
