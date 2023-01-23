@@ -31,7 +31,7 @@ The aim of our building surveying services is to expediate the time it takes to 
  - [x] after hours and weekend inspections and meetings by appointment
 
 ### Civil infrastructure services
-The aim of our civil construction services is to transoform your land so it is ready for your building permit and service utilities. Contact us now so we can begin to guide you on what planning permits and inspections you will legally require:
+The aim of our civil construction services is to transform your land so it is ready for your building permit and service utilities. Contact us now so we can begin to guide you on what planning permits and inspections you will legally require:
  - [x] municipal site inspections including roads and bridges to stairways and ramps.
  - [x] inspection of foundations, e.g. concrete and masonry slabs crack when they begin to deterioriate
  - [x] pre-purchase inspections of land parcels for site development considerations
