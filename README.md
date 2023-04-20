@@ -1,9 +1,9 @@
 # Wominjeka
 Wominjeka (welcome) to Earthsteading building surveying and civil infrastructure services.
 
-This page provides professional details of Earthsteading Ltd as a business in Australia:
+This page provides professional details of Earthsteading Ltd as a sole proprietorship in Australia:
   * ABN: [575 841 486 40](https://abr.business.gov.au/ABN/View?id=57584148640#)
-  * Owner: David F. Flanders
+  * Owner: David Flanders Tuke
   * Email: earthsteading@gmail.com
   * Mobile/SMS: 0455 400 644
   * Work locations: Earthsteading Ltd is approved under Professional Standards Legislation to operate accross Australia.
@@ -11,7 +11,7 @@ This page provides professional details of Earthsteading Ltd as a business in Au
 
 ## Services 
  - Owner-builder: see below list for surveyor services, especially providing council approved building permits and occupancy certificates.
- - Builder-contractor: for engineered approved schematics and performance solutions please see [full list of Earthsteading Ltd services](https://github.com/earthsteading)
+ - Builder-contractor: for engineered approved schematics and performance solutions please see [full list of Earthsteading Pty Ltd services](https://github.com/earthsteading)
 
 ### Building permits and surveying services
 The aim of our building surveying services is to expediate the time it takes to comply with building and construction code regulations (NCC).  Contact us now for our pre-design and pre-application advice service so we can guide you through the complex maze of building legislation which is ever changing. 
