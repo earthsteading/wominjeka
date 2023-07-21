@@ -10,7 +10,7 @@ This page provides professional details of Earthsteading Ltd as a sole proprieto
   * Postal Address: 699 Rathdowne Street, North Carlton, VIC, 3054.
 
 ## Services 
- - Performance Solutions Consultant (National Construction Code): structure, energy, alpine, fire life safety, universal access, hydraulics, bushfire, health and amenity.
+ - Performance Solutions Consultant (National Construction Code): structure, energy, alpine, fire life safety, universal access, hydraulics, civil, bushfire, health and amenity.
  - Owner-builder: see below list for surveyor services, especially providing council approved building permits and occupancy certificates.
  - Builder-contractor: for engineered approved schematics and performance solutions please see [full list of Earthsteading Pty Ltd services](https://github.com/earthsteading)
 
