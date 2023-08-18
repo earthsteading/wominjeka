@@ -1,5 +1,5 @@
 # Wominjeka
-Wominjeka (welcome) to Earthsteading building surveying and civil infrastructure services.
+Wominjeka (welcome) to Earthsteading Pty Ltd - *bespoke performance solution consultants*.
 
 This page provides professional details of Earthsteading Ltd as a sole proprietorship in Australia:
   * ABN: [575 841 486 40](https://abr.business.gov.au/ABN/View?id=57584148640#)
@@ -7,43 +7,38 @@ This page provides professional details of Earthsteading Ltd as a sole proprieto
   * Email: earthsteading@gmail.com
   * Mobile/SMS: 0455 400 644
   * Work locations: Earthsteading Ltd is approved under Professional Standards Legislation to operate accross Australia.
-  * Postal Address: 699 Rathdowne Street, North Carlton, VIC, 3054.
+  * Postal Address: 699 Rathdowne Street, North Carlton, VIC, 3054, Australia.
 
-## Services 
- - Performance Solutions Consultant (National Construction Code): structure, energy, alpine, fire life safety, universal access, hydraulics, civil, bushfire, health and amenity.
- - Owner-builder: see below list for surveyor services, especially providing council approved building permits and occupancy certificates.
- - Builder-contractor: for engineered approved schematics and performance solutions please see [full list of Earthsteading Pty Ltd services](https://github.com/earthsteading)
+# Earthsteading Pty Ltd
+## Performance Solutions Consultants
 
-### Building permits and surveying services
-The aim of our building surveying services is to expediate the time it takes to comply with building and construction code regulations (NCC).  Contact us now for our pre-design and pre-application advice service so we can guide you through the complex maze of building legislation which is ever changing. 
+### For Architects and Surveyors
 
- - [x] inform you about how best to comply with building regulations, codes and standards
- - [x] provide you with accurate and reliable information regarding any exemptions or concessions available for your project
- - [x] help you avoid potential planning problems with expert knowledge and advice
- - [x] provide building regulatory/code advice during project design stages
- - [x] assist in pre-application advice and guidance
- - [x] assure prompt processing of building permit applications and occupancy permits
- - [x] liaisons with relevant statutory authorities, including the fire brigades, local government building, planning and engineering departments and other statutory bodies
- - [x] preparation and presentation of appeals, modifications or dispensations to vary the requirements of the building regulations/codes
- - [x] bushfire site assessments and advice on construction requirements
- - [x] specialised expertise for off-grid and alpine performance based solutions
- - [x] mandatory and pre-purchase building inspections
- - [x] essential safety measures reports and advice
- - [x] after hours and weekend inspections and meetings by appointment
+* We help you comply with the Performanmce Requirements of the NCC for alpine, structural, energy, fire life safety, bushfire, universal access, hydraulics, civil, health and amenity requirements.
+* We provide bespoke Performance Solution reports that demonstrate how your building meets the performance requirements of the NCC.
+* We have a wealth of experience in providing Performance Solutions for a wide range of projects.
 
-### Civil infrastructure services
-The aim of our civil construction services is to transform your land so it is ready for your building permit and service utilities. Contact us now so we can begin to guide you on what planning permits and inspections you will legally require:
- - [x] municipal site inspections including roads and bridges to stairways and ramps.
- - [x] inspection of foundations, e.g. concrete and masonry slabs crack when they begin to deterioriate
- - [x] pre-purchase inspections of land parcels for site development considerations
- - [x] civil construction inspections
- - [x] land surveying
- - [x] dilapidation and structural maitenance inspections
- - [x] pre-build construction consultation on pool, damn, swale and stormwater run-off utilisation for off-grid structures
- - [x] contractor quality control, including test-driven inspections for utilities, water-wastewater, recreational, transportation, environmental and recreational civil works.
+### For Builder-Contractors
 
-### Operational and supervision for commercial building projects
-Earthsteading is licensed and insured to be the operations supervisor for commercial structures (Class 2-9). If your require your build project to be managed from start (planning permit) to completion (final occupancy permit) please request to see our commercial building portfolio under non-disclosure agreement.
+* We provide engineered approved schematics and performance solutions for a wide range of projects.
+* We help you get your projects approved by the council.
+* We help you build compliant buildings that meet the challenges of the 21st century.
+
+### For Owner-Builders
+
+* We provide building code consultant services, including council approved building permits and occupancy certificates.
+* We help you understand the NCC and the Performance Requirements.
+* We provide guidance on how to achieve compliance with the NCC.
+
+**Contact us today to learn more about our services.**
+
+**We are experts in the NCC's Performance Requirements.**
+
+**We have a proven track record of providing successful Performance Solutions.**
+
+**We are committed to sustainability and innovation.**
+
+**We offer a free initial consultation.**
 
 ## Code of conduct policies and complaints procedures:
 As per state legislation the following policies and procedures are avaialble to all Earthsteading clients throughout our mutually signed contract:
