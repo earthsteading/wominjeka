@@ -30,7 +30,7 @@ This page provides professional details of Earthsteading Ltd as a sole proprieto
 * We help you understand the NCC and the Performance Requirements.
 * We provide guidance on how to achieve compliance with the NCC.
 
-**Contact us today to learn more about our services.**
+**Contact us today for a FREE initial consultation.**
 
 **We are experts in the NCC's Performance Requirements.**
 
@@ -38,10 +38,8 @@ This page provides professional details of Earthsteading Ltd as a sole proprieto
 
 **We are committed to sustainability and innovation.**
 
-**We offer a free initial consultation.**
-
 ## Code of conduct policies and complaints procedures:
-As per state legislation the following policies and procedures are avaialble to all Earthsteading clients throughout our mutually signed contract:
+As per regulatory legislation the following policies and procedures are avaialble to all Earthsteading P/L clients throughout our mutually signed contract:
   - [x] [Code of conduct policy and complaints policy including public resolution register](https://github.com/earthsteading/contracting-procedures/blob/main/README.md).
   - [x] Contract and payment policy and procedure.  Please note, payment in full, prior to issuing a build permit is required.
   - [x] Indemnity insurance coverage and records keeping policy for all building documentation is a minimum of 10 years.
