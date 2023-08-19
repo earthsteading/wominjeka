@@ -20,7 +20,7 @@ This page provides professional details of Earthsteading Ltd as a sole proprieto
 
 ### For Builder-Contractors
 
-* We provide engineered approved schematics and performance solutions for a wide range of projects.
+* We provide engineered approved schematics and performance solutions for a wide range of commercial and residential projects.
 * We help you get your projects approved by the council.
 * We help you build compliant buildings that meet the challenges of the 22nd century.
 
