@@ -22,7 +22,7 @@ This page provides professional details of Earthsteading Ltd as a sole proprieto
 
 * We provide engineered approved schematics and performance solutions for a wide range of projects.
 * We help you get your projects approved by the council.
-* We help you build compliant buildings that meet the challenges of the 21st century.
+* We help you build compliant buildings that meet the challenges of the 22nd century.
 
 ### For Owner-Builders
 
