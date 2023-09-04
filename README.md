@@ -1,10 +1,10 @@
 # Wominjeka
 Wominjeka (welcome) to Earthsteading Pty Ltd - *bespoke performance solution consultants*.
 
-This page provides professional details of Earthsteading Ltd as a sole proprietorship in Australia:
+This page provides professional details of Earthsteading Limited as a sole proprietorship in Australia:
   * ABN: [575 841 486 40](https://abr.business.gov.au/ABN/View?id=57584148640#)
   * Owner: David Flanders Tuke
-  * Email: earthsteading@gmail.com
+  * Email: Earthsteading@gmail.com
   * Mobile/SMS: 0455 400 644
   * Work locations: Earthsteading Ltd is approved under Professional Standards Legislation to operate accross Australia.
   * Postal Address: 699 Rathdowne Street, North Carlton, VIC, 3054, Australia.
@@ -14,21 +14,21 @@ This page provides professional details of Earthsteading Ltd as a sole proprieto
 
 ### For Architects and Surveyors
 
-* We help you comply with the Performanmce Requirements of the NCC for alpine, structural, energy, fire life safety, bushfire, universal access, hydraulics, civil, health and amenity requirements.
-* We provide bespoke Performance Solution reports that demonstrate how your building meets the performance requirements of the NCC.
-* We have a wealth of experience in providing Performance Solutions for a wide range of projects.
+* Comply with the Performanmce Requirements of the NCC for alpine, structural, energy, fire life safety, bushfire, universal access, hydraulics, civil, health and amenity requirements.
+* Bespoke Performance Solution reports that demonstrate how your building meets the performance requirements of the NCC.
+* Experience in upgrading existing buildings for a wide range of projects, including heritage.
 
 ### For Builder-Contractors
 
-* We provide engineered approved schematics and performance solutions for a wide range of commercial and residential projects.
-* We help you get your projects approved by the council.
-* We help you build compliant buildings that meet the challenges of the 22nd century.
+* Engineered approved schematics and performance solutions for commercial and residential projects.
+* Planning and building permits approved by the council.
+* Build compliant buildings that meet the challenges of the 22nd century!
 
 ### For Owner-Builders
 
-* We provide building code consultant services, including council approved building permits and occupancy certificates.
-* We help you understand the NCC and the Performance Requirements.
-* We provide guidance on how to achieve compliance with the NCC.
+* Building code consultant services, including council approved building permits and occupancy certificates.
+* Enable your nderstanding of the NCC and your rights to build your design using the Performance Requirements, Building Acts and Regulations.
+* We provide guidance on how to achieve compliance with the National Construction Code (NCC), aka Building Code of Australia (BCA).
 
 **Contact us today for a FREE initial consultation.**
 
