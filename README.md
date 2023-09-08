@@ -3,7 +3,7 @@ Wominjeka (welcome) to Earthsteading Pty Ltd - *bespoke performance solution con
 
 This page provides professional details of Earthsteading Limited as a sole proprietorship in Australia:
   * ABN: [575 841 486 40](https://abr.business.gov.au/ABN/View?id=57584148640#)
-  * Owner: David Flanders Tuke
+  * Owner: David Flanders
   * Email: Earthsteading@gmail.com
   * Mobile/SMS: 0481 591 244
   * Work locations: Earthsteading Ltd is approved under Professional Standards Legislation to operate accross Australia.
