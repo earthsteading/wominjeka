@@ -22,12 +22,12 @@ This page provides professional details of Earthsteading Limited as a sole propr
 
 * Engineered approved schematics and performance solutions for commercial and residential projects.
 * Planning and building permits approved by the council.
-* Build compliant buildings that meet the challenges of the 22nd century!
+* Build compliant buildings that meet the challenges of the 22nd century.
 
 ### For Owner-Builders
 
 * Building code consultant services, including council approved building permits and occupancy certificates.
-* Enable your nderstanding of the NCC and your rights to build your design using the Performance Requirements, Building Acts and Regulations.
+* Enable your understanding of the NCC and your rights to build your design using the Performance Requirements, Building Acts and Regulations.
 * We provide guidance on how to achieve compliance with the National Construction Code (NCC), aka Building Code of Australia (BCA).
 
 **Contact us today for a FREE initial consultation.**
