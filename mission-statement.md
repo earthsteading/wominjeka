@@ -7,8 +7,8 @@ To unlock a future where Australia's building boom thrives in harmony with our p
 These values support our mission statement:
 
  - innovation for sustainability (beyond the current 1950's Building Code of Australia)
- - net negative emissions (not just building envelope)
- - meaningful legacy using material longevity (ciricular economy) 
+ - net negative emissions (not just building envelope pssive homes)
+ - meaningful legacy using material longevity (ciricular economy resuse) 
 
 ## The Problem(s)
 
