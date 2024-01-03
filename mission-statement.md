@@ -6,9 +6,11 @@ To unlock a future where Australia's building boom thrives in harmony with our p
 
 These values support our mission statement:
 
- - innovation for sustainability (beyond the current 1950's Building Code of Australia)
- - luxury living through net negative emissions (not just building envelope pssive homes)
- - meaningful legacy using material longevity (ciricular economy resuse) 
+ - Innovation for sustainability (beyond the current 1950's Building Code of Australia), e.g. performance solutions for earth materials like rammed earth, hempcrete, adobe, etc.
+ - Luxury living through net negative emissions (not just building envelope 'efficient' homes), e.g. total cost of emobied carbon for lifespan of struture.
+ - Meaningful legacy using material longevity (circular economy resuse of building materials), e.g. use of rich clay deposits in Victoria for bushfire and earthquake rammed earth adobe walls and recycled glass.
+
+[For examples of the above values as projects, please see my list of open source projects](https://github.com/orgs/earthsteading/repositories?type=all).
 
 ## The Problem(s)
 
