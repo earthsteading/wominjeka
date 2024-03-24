@@ -5,7 +5,7 @@ This page provides professional details of Earthsteading Limited as a sole propr
   * ABN: [575 841 486 40](https://abr.business.gov.au/ABN/View?id=57584148640#)
   * Owner: David Flanders
   * Email: Earthsteading@gmail.com
-  * Mobile/SMS: 0481 591 244
+  * Mobile/SMS: 0447 985 385
   * Work locations: Earthsteading Ltd is approved under Professional Standards Legislation to operate accross Australia.
   * Postal Address: 699 Rathdowne Street, North Carlton, VIC, 3054, Australia.
 
