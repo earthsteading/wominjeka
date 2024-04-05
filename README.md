@@ -44,11 +44,7 @@ As per regulatory legislation the following policies and procedures are avaialbl
   - [x] Contract and payment policy and procedure.  Please note, payment in full, prior to issuing a build permit is required.
   - [x] Indemnity insurance coverage and records keeping policy for all building documentation is a minimum of 10 years.
 
-## Other @Earthsteading places on the Web
-   * Google = earthsteading@gmail.com
-   * LinkedIn = https://www.linkedin.com/in/earthsteading/
-     * TikTok = https://www.tiktok.com/@earthsteading
-     * Instagram = https://twitter.com/earthsteading
-     * Twitter = https://mobile.twitter.com/earthsteading
+## Learn more about Earthstading Pty Ltd
+   * [Specialist in sustainable bushfire resistant materials including: rammed-earth, adobe, strawbale, hempcrete, lightearth, timber, bamboo and stone masonry ](https://github.com/orgs/earthsteading/repositories)
 
 Cite this page: www.earthsteading.limited/wominjeka
