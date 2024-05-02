@@ -10,19 +10,19 @@ This page provides professional details of Earthsteading Limited as a sole propr
   * Postal Address: 699 Rathdowne Street, North Carlton, VIC, 3054, Australia.
 
 # Earthsteading Pty Ltd
-## Performance Solutions Consultants
+## Performance Solutions Consultants (specialising in carbon-negative and heritage building materials)
 
 ### For Architects and Surveyors
 
 * Comply with the Performanmce Requirements of the NCC for alpine, structural, energy, fire life safety, bushfire, universal access, hydraulics, civil, health and amenity requirements.
 * Bespoke Performance Solution reports that demonstrate how your building meets the performance requirements of the NCC.
-* Experience in upgrading existing buildings for a wide range of projects, including heritage.
+* Experience in upgrading existing buildings for a wide range of sustainable building materials, including heritage.
 
 ### For Builder-Contractors
 
 * Engineered approved schematics and performance solutions for commercial and residential projects.
 * Planning and building permits approved by the council.
-* Build compliant buildings that meet the challenges of the 22nd century.
+* Build compliant buildings that meet the challenges of the carbon-negative climate crisis.
 
 ### For Owner-Builders
 
@@ -34,7 +34,7 @@ This page provides professional details of Earthsteading Limited as a sole propr
 
 **We are experts in the NCC's Performance Requirements.**
 
-**We have a proven track record of providing successful Performance Solutions.**
+**We have a proven track record of providing successful Performance Solutions for sustainable building materials and heritage projects.**
 
 **We are committed to sustainability and innovation.**
 
@@ -47,4 +47,4 @@ As per regulatory legislation the following policies and procedures are avaialbl
 ## Learn more about Earthstading Pty Ltd
    * [Specialist in sustainable bushfire resistant materials including: rammed-earth, adobe, strawbale, hempcrete, lightearth, timber, bamboo and stone masonry ](https://github.com/orgs/earthsteading/repositories)
 
-Cite this page: www.earthsteading.limited/wominjeka
+Cite this page: www.earthsteading.limited/about
